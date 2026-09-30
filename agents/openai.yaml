@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 270"
+  short_description: "东方图腾：上半保留原照，下半把主体收成东方印章式的小型视觉图腾"
+  default_prompt: "Use $xxd-panel-270 to transform my photograph following the complete canonical source brief."
