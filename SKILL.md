@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-270
-description: "Create XXD Panel 270 raster artwork: a faithful photograph paired with a small Eastern seal-like totem, restrained geometry, cinnabar, ink and antique-paper texture in extreme whitespace. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-270 or asks for this 东方图腾 style."
+description: "XXD Panel 270｜Eastern Totem: distils the subject of a photo into one small Eastern seal-like totem in neo-Chinese symbolic design — a clear, simplified outline with abstracted proportions and a little geometry such as circles, squares, frames, radiating structure or seal-carving lines, fine engraved lines, flat colour and light woodblock-print texture on aged or xuan paper with ink variation and hand-carved error, a restrained palette of cinnabar red, antique gold, warm ivory, beige, ink black and celadon green drawn from the photo, the totem small and solemn in extreme white space, and a short inscription-like note set apart in a refined bookish editorial type. No piled-up traditional patterns or souvenir look. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-270 or asks for Chinese seal, Eastern emblem or totem-style minimal mark from a photo."
 ---
 
 # XXD Panel 270

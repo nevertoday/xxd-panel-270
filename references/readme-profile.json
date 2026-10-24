@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 270｜Eastern Totem: distils the subject of a photo into one small Eastern seal-like totem in neo-Chinese symbolic design — a clear, simplified outline with abstracted proportions and a little geometry such as circles, squares, frames, radiating structure or seal-carving lines, fine engraved lines, flat colour and light woodblock-print texture on aged or xuan paper with ink variation and hand-carved error, a restrained palette of cinnabar red, antique gold, warm ivory, beige, ink black and celadon green drawn from the photo, the totem small and solemn in extreme white space, and a short inscription-like note set apart in a refined bookish editorial type. No piled-up traditional patterns or souvenir look. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-270 or asks for Chinese seal, Eastern emblem or totem-style minimal mark from a photo.",
+  "short_description": "东方图腾：把照片主体收成一枚东方印章式的小型视觉图腾，朱砂墨色、极端留白",
+  "zh-CN": {
+    "name": "东方图腾",
+    "tagline": "把照片主体收成一枚东方印章般的小图腾，小而庄重，四周大片留白。",
+    "look": "主体被提炼成一个印章般的小符号：轮廓清晰简化，比例抽象，用少量几何关系组织，比如圆、方、边框、放射结构或篆刻感的线条，但不堆叠传统纹样。画法是细致线刻、平面色块和轻微木版印刷感，纸是古纸或宣纸，看得见纸纤维、墨色变化、刻痕和手工误差。颜色从照片里重新调制，走向朱砂红、古金、暖象牙白、米色、墨黑或青瓷绿，庄重克制。符号很小，居中、偏心或被裁切，大片留白带出仪式感；旁边一行像题记的小字，和符号保持距离。",
+    "traits": ["东方印章", "符号化图腾", "朱砂墨色", "极端留白", "艺术档案", "木版刻线"],
+    "good": [
+      "有东方气质或庄重感的主体：一座古塔、一只仙鹤、一尊石狮、一枝梅花",
+      "轮廓有力、适合做印的对象：一座山、一只猫的侧影、一把茶壶、一扇月洞门",
+      "想做成印章、文化品牌标识或艺术档案封面的照片"
+    ],
+    "poor": [
+      "想保留完整场景或丰富细节的照片",
+      "想要喜庆艳俗的金红、旅游纪念品或吉祥物效果的需求",
+      "想要满版传统纹样、3D 效果或模板 Logo 的需求"
+    ]
+  },
+  "en": {
+    "name": "Eastern Totem",
+    "tagline": "Distils the subject of your photo into a small Eastern seal-like totem, small and solemn in wide white space.",
+    "look": "The subject is refined into a seal-like small symbol: a clear, simplified outline with abstracted proportions, organised by a little geometry such as a circle, a square, a frame, radiating structure or lines with a seal-carving feel, without piling up traditional patterns. It is rendered with fine engraved lines, flat colour and a light woodblock-print texture on aged or xuan paper, with visible fibres, shifts in ink tone, carving marks and hand error. Colours from the photo are remixed towards cinnabar red, antique gold, warm ivory, beige, ink black or celadon green, solemn and restrained. The symbol is small, centred, off-centre or cropped, and the wide white space gives it a ceremonial feel; a small inscription-like line of text sits at a distance from it.",
+    "traits": ["Eastern seal", "Symbolic totem", "Cinnabar and ink", "Extreme white space", "Art archive", "Woodblock lines"],
+    "good": [
+      "Subjects with an Eastern or solemn character: an old pagoda, a crane, a stone lion, a plum branch",
+      "Strong outlines that suit a seal: a mountain, a cat in profile, a teapot, a moon gate",
+      "Photos you want as a seal, cultural brand mark or art-archive cover"
+    ],
+    "poor": [
+      "Photos where you want the full scene or rich detail kept",
+      "Requests for loud festive red and gold, a souvenir look or a mascot",
+      "Requests for dense traditional patterns, 3D effects or a template logo"
+    ]
+  },
+  "ja": {
+    "name": "東洋のトーテム",
+    "tagline": "写真の主役を、東洋の印章のような小さなトーテムにします。小さく厳かに、まわりは広い余白。",
+    "look": "主役は印章のような小さな記号に練り上げられます。輪郭ははっきりと簡略化され、比率は抽象化され、円、四角、枠、放射状の構造、篆刻のような線といった少しの幾何学で組み立てますが、伝統文様を積み重ねることはしません。描き方は細やかな彫りの線、平らな色面、うっすらとした木版刷りの質感で、紙は古紙や画仙紙。紙の繊維、墨の濃淡、彫り跡、手仕事の誤差が見えます。色は写真から調合し直し、朱、古金、温かなアイボリー、ベージュ、墨の黒、青磁の緑へと向かわせ、厳かで控えめにします。記号は小さく、中央でも、ずらしても、切れてもよく、広い余白が儀式のような空気を生みます。そばには題記のような小さな文字を一行、記号から距離をとって置きます。",
+    "traits": ["東洋の印章", "記号化したトーテム", "朱と墨", "極端な余白", "アートアーカイブ", "木版の線"],
+    "good": [
+      "東洋的な趣や厳かさのある主役：古い塔、鶴、石の獅子、梅の枝",
+      "印にしやすい力強い輪郭：山、猫の横顔、急須、円窓の門",
+      "印章、文化ブランドのマーク、アートアーカイブの表紙にしたい写真"
+    ],
+    "poor": [
+      "場面全体や豊かな細部を残したい写真",
+      "派手でめでたい金と赤、観光土産、マスコットのような仕上がりを求める場合",
+      "伝統文様を詰め込んだもの、3D 効果、テンプレートのロゴを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "동양 토템",
+    "tagline": "사진 속 주인공을 동양 인장 같은 작은 토템으로 걸러 냅니다. 작고 장중하게, 둘레는 넓은 여백.",
+    "look": "주인공은 인장 같은 작은 기호로 다듬어집니다. 윤곽은 분명하게 단순화하고 비례는 추상화하며, 원, 사각, 테두리, 방사 구조, 전각 같은 선 등 약간의 기하로 짜되 전통 문양을 쌓아 올리지는 않습니다. 섬세한 새김 선, 납작한 색면, 옅은 목판 인쇄 질감으로 그리고, 종이는 옛 종이나 화선지로 섬유, 먹색의 변화, 새긴 자국, 손작업의 오차가 보입니다. 색은 사진에서 다시 조합해 주홍, 고금색, 따뜻한 아이보리, 베이지, 먹빛 검정, 청자 초록 쪽으로 이끌어 장중하고 절제되게 합니다. 기호는 작고, 가운데에 두거나 비켜 두거나 잘려도 되며, 넓은 여백이 의식 같은 분위기를 만듭니다. 옆에는 제발 같은 작은 글씨 한 줄을 기호와 거리를 두고 놓습니다.",
+    "traits": ["동양 인장", "기호화된 토템", "주홍과 먹", "극단적 여백", "예술 기록", "목판 선"],
+    "good": [
+      "동양적 기품이나 장중함이 있는 주인공: 오래된 탑, 학, 돌사자, 매화 가지",
+      "인장으로 만들기 좋은 힘 있는 윤곽: 산, 고양이 옆모습, 찻주전자, 둥근 문",
+      "인장, 문화 브랜드 마크, 예술 기록물 표지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "장면 전체나 풍부한 세부를 살리고 싶은 사진",
+      "요란한 경축용 금빛과 빨강, 관광 기념품, 마스코트 느낌을 원하는 경우",
+      "전통 문양으로 가득 채운 화면, 3D 효과, 템플릿 로고를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "الطوطم الشرقي",
+    "tagline": "يستخلص من عنصر صورتك طوطماً صغيراً كالختم الشرقي، صغيراً مهيباً وسط فراغ أبيض واسع.",
+    "look": "يُصفّى العنصر إلى رمز صغير كالختم: خط خارجي واضح مبسّط ونِسب مجرّدة، تنظّمه هندسة قليلة كدائرة أو مربع أو إطار أو بنية إشعاعية أو خطوط فيها روح نقش الأختام، دون تكديس الزخارف التقليدية. يُنفَّذ بخطوط محفورة دقيقة ومساحات لونية مسطّحة وملمس خفيف لطباعة القوالب الخشبية، على ورق قديم أو ورق الأرز الصيني، فتظهر الألياف وتدرجات الحبر وآثار الحفر وأخطاء اليد. يُعاد مزج ألوان الصورة نحو الأحمر الزنجفري والذهبي العتيق والعاجي الدافئ والبيج والأسود الحبري والأخضر الخزفي، بوقار وتحفّظ. الرمز صغير، في الوسط أو بعيداً عنه أو مقتطعاً، ويمنحه الفراغ الأبيض الواسع إحساساً طقسياً؛ ويُكتب سطر صغير كالإهداء على مسافة منه.",
+    "traits": ["ختم شرقي", "طوطم رمزي", "زنجفر وحبر", "فراغ أبيض شديد", "أرشيف فني", "خطوط القوالب الخشبية"],
+    "good": [
+      "عناصر ذات طابع شرقي أو مهيب: باغودا قديمة، كركي، أسد حجري، غصن برقوق مزهر",
+      "حدود قوية تليق بالختم: جبل، قطة من الجانب، إبريق شاي، بوابة القمر",
+      "صور تريدها ختماً أو علامة لمؤسسة ثقافية أو غلافاً لأرشيف فني"
+    ],
+    "poor": [
+      "صور تريد الاحتفاظ بمشهدها كاملاً أو بتفاصيلها الغنية",
+      "طلب الأحمر والذهبي الاحتفاليين الصارخين أو مظهر التذكارات السياحية أو التمائم التجارية",
+      "طلب زخارف تقليدية كثيفة أو مؤثرات ثلاثية الأبعاد أو شعار جاهز"
+    ]
+  }
+}
